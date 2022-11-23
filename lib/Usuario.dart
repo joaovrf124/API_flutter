@@ -1,3 +1,5 @@
+//Classe com os atributos e criadores de fabrica referentes ao usuario 
+
 class Usuario {
   int? id;
   String? name;

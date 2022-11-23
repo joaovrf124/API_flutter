@@ -1,6 +1,6 @@
 import 'dart:convert';
 import 'package:flutter/material.dart';
-import 'package:http/http.dart' as http;
+import 'package:http/http.dart' as http; //Pacote que faz as requisições da internet e traz a aplicação
 import 'Usuario.dart';
 
 class HomePage extends StatefulWidget {
